@@ -1,0 +1,56 @@
+.slika{
+  width: 100%;
+  height: 300px;
+}
+.sise{
+  background-image: url("../img/ass.jpg")!important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.wrapper{
+}
+.banner{
+  width: 350px;
+  height: 1450px;
+  /*margin-top: 20px;*/
+  position: fixed;
+}
+.foot{
+}
+#main{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  background-color: #4c4d4f;
+}
+.levi{
+  background-image: url("../img/left.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.desni{
+  background-image: url("../img/ljubav.jpg");
+  background-position: center;
+  background-size: cover;
+  position: fixed;
+  right: 0;
+}
+.search form input{
+  width: 300px;
+}
+.trazi{
+  color: white;
+  font-size: 20px;
+}
+.test{
+  background-color: black!important;
+}
+.oglas img{
+  width: 500px;
+  height: 400px;
+}
+.tekst-white{
+  color: white;
+}
